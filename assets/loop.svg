@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 520" width="960" height="520" font-family="PingFang SC, Microsoft YaHei, Noto Sans CJK SC, Source Han Sans SC, sans-serif">
+  <defs>
+    <marker id="arr" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto">
+      <path d="M0,0 L10,5 L0,10 z" fill="#94a3b8"/>
+    </marker>
+    <linearGradient id="core" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1e293b"/>
+      <stop offset="1" stop-color="#0f172a"/>
+    </linearGradient>
+  </defs>
+  <rect width="960" height="520" rx="20" fill="#f8fafc"/>
+  <text x="40" y="58" font-size="28" font-weight="700" fill="#0f172a">creator-brain · 自媒体内容大脑</text>
+  <text x="40" y="92" font-size="16" fill="#475569">每一条视频都有数据依据，每一次发布都变成经验</text>
+
+  <!-- 环线 -->
+  <g stroke="#94a3b8" stroke-width="2" fill="none" marker-end="url(#arr)">
+    <path d="M318,170 Q400,138 452,140"/>
+    <path d="M588,152 Q660,168 690,214"/>
+    <path d="M712,292 Q716,338 680,370"/>
+    <path d="M590,420 Q520,446 452,442"/>
+    <path d="M312,426 Q252,408 238,372"/>
+    <path d="M222,292 Q214,240 238,202"/>
+  </g>
+
+  <!-- 中心 -->
+  <rect x="366" y="232" width="228" height="104" rx="18" fill="url(#core)"/>
+  <text x="480" y="274" font-size="19" font-weight="700" fill="#f8fafc" text-anchor="middle">你的本地知识库</text>
+  <text x="480" y="302" font-size="13" fill="#cbd5e1" text-anchor="middle">Markdown + CSV · 存在自己电脑</text>
+  <text x="480" y="322" font-size="13" fill="#cbd5e1" text-anchor="middle">AI 进来先读规则</text>
+
+  <!-- 节点 -->
+  <g font-size="17" font-weight="700" text-anchor="middle">
+    <rect x="170" y="138" width="150" height="62" rx="14" fill="#dbeafe"/>
+    <text x="245" y="166" fill="#1e3a8a">① 对标</text>
+    <text x="245" y="188" font-size="12" font-weight="400" fill="#1e40af">发链接或截图，AI 记数据</text>
+
+    <rect x="456" y="112" width="132" height="62" rx="14" fill="#dcfce7"/>
+    <text x="522" y="140" fill="#14532d">② 选题</text>
+    <text x="522" y="162" font-size="12" font-weight="400" fill="#166534">几个号反复做爆过</text>
+
+    <rect x="650" y="218" width="140" height="62" rx="14" fill="#fef3c7"/>
+    <text x="720" y="246" fill="#78350f">③ 脚本</text>
+    <text x="720" y="268" font-size="12" font-weight="400" fill="#92400e">短视频 / 深度教程</text>
+
+    <rect x="590" y="372" width="160" height="62" rx="14" fill="#fee2e2"/>
+    <text x="670" y="400" fill="#7f1d1d">④ 发布前检查</text>
+    <text x="670" y="422" font-size="12" font-weight="400" fill="#991b1b">违规、引流话术、版权</text>
+
+    <rect x="312" y="410" width="140" height="62" rx="14" fill="#ede9fe"/>
+    <text x="382" y="438" fill="#3b0764">⑤ 发布复盘</text>
+    <text x="382" y="460" font-size="12" font-weight="400" fill="#5b21b6">是你平时的几倍</text>
+
+    <rect x="150" y="296" width="160" height="62" rx="14" fill="#e0f2fe"/>
+    <text x="230" y="324" fill="#0c4a6e">⑥ 我的爆款规则</text>
+    <text x="230" y="346" font-size="12" font-weight="400" fill="#075985">每条规则都有依据</text>
+  </g>
+
+  <!-- 右侧说明 -->
+  <g font-size="13" fill="#334155">
+    <text x="812" y="140" font-weight="700" fill="#0f172a">爆款倍数</text>
+    <text x="812" y="162">这条点赞</text>
+    <text x="812" y="180">÷ 这个号平时一条</text>
+    <text x="812" y="206" fill="#64748b">去掉大号粉丝基础</text>
+    <text x="812" y="224" fill="#64748b">的影响</text>
+  </g>
+  <text x="40" y="500" font-size="12" fill="#94a3b8">支持 Claude Code · Codex · WorkBuddy｜抖音 · 小红书 · 视频号 · B站</text>
+</svg>

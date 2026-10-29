@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 360" width="960" height="360" font-family="PingFang SC, Microsoft YaHei, Noto Sans CJK SC, Source Han Sans SC, sans-serif">
+  <rect width="960" height="360" rx="20" fill="#f8fafc"/>
+  <text x="40" y="54" font-size="24" font-weight="700" fill="#0f172a">为什么看「爆款倍数」，不看点赞数</text>
+  <text x="40" y="84" font-size="15" fill="#475569">爆款倍数 = 这条的点赞 ÷ 这个号平时一条的点赞（非置顶作品的中位数）</text>
+
+  <!-- 大号 -->
+  <rect x="40" y="110" width="420" height="210" rx="16" fill="#ffffff" stroke="#e2e8f0"/>
+  <text x="64" y="146" font-size="18" font-weight="700" fill="#0f172a">大号：粉丝 80 万</text>
+  <text x="64" y="172" font-size="13" fill="#64748b">平时一条 4 万赞</text>
+  <rect x="64" y="196" width="300" height="26" rx="6" fill="#cbd5e1"/>
+  <text x="372" y="214" font-size="13" fill="#475569">平时 4 万</text>
+  <rect x="64" y="232" width="360" height="26" rx="6" fill="#94a3b8"/>
+  <text x="64" y="282" font-size="14" fill="#334155">这条 4.8 万赞 → 只是平时的 <tspan font-weight="700">1.2 倍</tspan></text>
+  <text x="64" y="304" font-size="13" fill="#64748b">点赞多，是因为粉丝多，不是选题好</text>
+
+  <!-- 小号 -->
+  <rect x="500" y="110" width="420" height="210" rx="16" fill="#ffffff" stroke="#e2e8f0"/>
+  <text x="524" y="146" font-size="18" font-weight="700" fill="#0f172a">小号：粉丝 4000</text>
+  <text x="524" y="172" font-size="13" fill="#64748b">平时一条 100 赞</text>
+  <rect x="524" y="196" width="6" height="26" rx="3" fill="#cbd5e1"/>
+  <text x="540" y="214" font-size="13" fill="#475569">平时 100</text>
+  <rect x="524" y="232" width="190" height="26" rx="6" fill="#16a34a"/>
+  <text x="524" y="282" font-size="14" fill="#14532d">这条 5000 赞 → 是平时的 <tspan font-weight="700">50 倍</tspan></text>
+  <text x="524" y="304" font-size="13" fill="#166534">选题本身起了作用，值得学</text>
+</svg>

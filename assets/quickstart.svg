@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 300" width="960" height="300" font-family="PingFang SC, Microsoft YaHei, Noto Sans CJK SC, Source Han Sans SC, sans-serif">
+  <defs>
+    <marker id="a" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#94a3b8"/></marker>
+  </defs>
+  <rect width="960" height="300" rx="20" fill="#f8fafc"/>
+  <text x="40" y="52" font-size="22" font-weight="700" fill="#0f172a">三句话用起来</text>
+
+  <g font-size="14">
+    <rect x="40" y="78" width="268" height="190" rx="16" fill="#ffffff" stroke="#e2e8f0"/>
+    <text x="62" y="110" font-size="13" font-weight="700" fill="#2563eb">第 1 步 · 你说</text>
+    <rect x="62" y="122" width="224" height="52" rx="12" fill="#dbeafe"/>
+    <text x="76" y="144" fill="#1e3a8a">帮我看看这几个对标号</text>
+    <text x="76" y="164" fill="#1e3a8a">（发 3 个主页链接）</text>
+    <text x="62" y="204" font-size="13" fill="#475569">AI 打开页面读数、记进对标库，</text>
+    <text x="62" y="224" font-size="13" fill="#475569">再用一句话复述给你核对</text>
+
+    <rect x="346" y="78" width="268" height="190" rx="16" fill="#ffffff" stroke="#e2e8f0"/>
+    <text x="368" y="110" font-size="13" font-weight="700" fill="#16a34a">第 2 步 · 你说</text>
+    <rect x="368" y="122" width="224" height="52" rx="12" fill="#dcfce7"/>
+    <text x="382" y="144" fill="#14532d">哪些选题最近容易爆？</text>
+    <text x="382" y="164" fill="#14532d">帮我写第一条</text>
+    <text x="368" y="204" font-size="13" fill="#475569">AI 算爆款倍数，只推荐被多个号</text>
+    <text x="368" y="224" font-size="13" fill="#475569">反复做爆的选题，再写成脚本</text>
+
+    <rect x="652" y="78" width="268" height="190" rx="16" fill="#ffffff" stroke="#e2e8f0"/>
+    <text x="674" y="110" font-size="13" font-weight="700" fill="#7c3aed">第 3 步 · 你说</text>
+    <rect x="674" y="122" width="224" height="52" rx="12" fill="#ede9fe"/>
+    <text x="688" y="144" fill="#3b0764">发了，3 天后：</text>
+    <text x="688" y="164" fill="#3b0764">记一下这条的数据</text>
+    <text x="674" y="204" font-size="13" fill="#475569">AI 算出这条是你平时的几倍，</text>
+    <text x="674" y="224" font-size="13" fill="#475569">经验写进你的爆款规则</text>
+  </g>
+  <path d="M312,172 L340,172" stroke="#94a3b8" stroke-width="2" marker-end="url(#a)"/>
+  <path d="M618,172 L646,172" stroke="#94a3b8" stroke-width="2" marker-end="url(#a)"/>
+</svg>
